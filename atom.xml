@@ -6,7 +6,7 @@
   <link href="https://wubi98.github.io/atom.xml" rel="self"/>
   
   <link href="https://wubi98.github.io/"/>
-  <updated>2024-05-31T16:00:00.000Z</updated>
+  <updated>2024-10-27T16:00:00.000Z</updated>
   <id>https://wubi98.github.io/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>杂谈</title>
+    <link href="https://wubi98.github.io/2024/10/28/2024-10-28-001.pc/"/>
+    <id>https://wubi98.github.io/2024/10/28/2024-10-28-001.pc/</id>
+    <published>2024-10-27T16:00:00.000Z</published>
+    <updated>2024-10-27T16:00:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="梦中情本"><a href="#梦中情本" class="headerlink" title="梦中情本"></a>梦中情本</h4><p>笔记本脱电使用一整天，一直是种奢望。<br>这两年，苹果的 M 系列芯片做到了这种能效比。但是，苹果本不仅贵、还搞了个齐刘海，让人瞅一眼就浑身难受。</p><p>看到一些 up 评测 <code>Lunar Lake</code> 芯片的笔电，这些 <code>x86</code> 的新本子续航已基于与苹果持平，可以做到持续使用十小时以上。<br>但是，坏消息是 <code>Lunar Lake</code> 可能是孤品，英特尔未来大概率不会再出迭代产品了。据说，英特尔已经营收困难，打算卖身续命。</p><p>这世界变化可真快啊，十多年前攒台式机的时候，<code>AMD</code> 还因推土机系列芯片的品控问题一再难产。</p><p>我手上这台笔电，换过一次键盘、修过一次主板，换过一次 D 壳。尽管如此，但它依然崭新——这就是铝镁合金的魅力。<br>2022年04月，到现在两年多一点，一直担心的 <code>Oled</code> 烧屏问题并未发生，虽然烧屏几乎是一种必然。</p><p>手上这台笔电屏幕参数：</p><ul><li><code>15.6</code>英寸，</li><li><code>16:10</code>，</li><li><code>3.5K(3456*2160)</code>，</li><li><code>261 PPI</code>，</li><li>峰值亮度 <code>600</code>尼特，</li><li><code>E4</code>发光材质，</li><li><code>10.7</code>亿色彩，</li><li><code>91%</code>屏占比。</li></ul><p>处理器： <code>11th Gen Intel(R) Core(TM) i5-11320H @ 3.20GHz   3.19 GHz</code><br>内存： <code>16.0 GB (15.8 GB 可用)</code><br>电池： <code>66Whr</code></p><p>这台笔电的实际可用时间也就四小时左右，但是它在宣传上的说法是可持续播放本地视频 11 个小时，并指出这是150尼特亮度，50%音量且断开 WIFI。 没有十年脑血栓，想不出这种用法。</p><p>这台笔电还有两个突出的问题，合盖休眠会发热，蓝牙经常掉驱动。</p><p>合盖休眠的问题由来已久，这种问题解决起来很困难吗？总之我从 2007 年购入第一台 PC 本到现在，没有一个厂商处理掉这个问题。有时忙起来忘记关机，从包里掏出滚烫的笔电时，都后怕得一逼。这要是炸了，他妈的威力不亚于一颗手雷吧？</p><p>蓝牙掉驱就更难受了，离开一会儿，再动鼠标就没反应了。</p><p>明年，如果 <code>Lunar Lake</code> 芯片类的笔电还有厂商能做到不亚于手上这台笔电的屏幕素质，一万预算闭眼入。</p><p>希望英特尔不要在这之前倒闭了。</p><h4 id="手机退烧"><a href="#手机退烧" class="headerlink" title="手机退烧"></a>手机退烧</h4><p>天天都在用手机，但是似乎我已经很久没有关心过手机的软硬件问题。<br>难怪雷总要开辟新赛道，寻找新打法，全力投产小米汽车去了。<br>这波移动互联时代的热潮，到底是要冷下来了。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h4 id=&quot;梦中情本&quot;&gt;&lt;a href=&quot;#梦中情本&quot; class=&quot;headerlink&quot; title=&quot;梦中情本&quot;&gt;&lt;/a&gt;梦中情本&lt;/h4&gt;&lt;p&gt;笔记本脱电使用一整天，一直是种奢望。&lt;br&gt;这两年，苹果的 M 系列芯片做到了这种能效比。但是，苹果本不仅贵、还搞了个齐刘海</summary>
+      
+    
+    
+    
+    <category term="pc" scheme="https://wubi98.github.io/categories/pc/"/>
+    
+    
+    <category term="pc" scheme="https://wubi98.github.io/tags/pc/"/>
+    
+  </entry>
   
   <entry>
     <title>中州韵助手重构版</title>
@@ -514,30 +538,6 @@
     
     
     <category term="yong" scheme="https://wubi98.github.io/tags/yong/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>小狼毫助手C++重构版</title>
-    <link href="https://wubi98.github.io/2023/06/16/2023-06-16-01.rimetool/"/>
-    <id>https://wubi98.github.io/2023/06/16/2023-06-16-01.rimetool/</id>
-    <published>2023-06-15T16:00:00.000Z</published>
-    <updated>2023-06-20T16:00:00.000Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="正式发布"><a href="#正式发布" class="headerlink" title="正式发布"></a>正式发布</h2><p>历时 <code>5</code> 天，<code>weasel-tool</code> 正式发布。请到 <a href="http://98wb.ysepan.com/">98五笔网盘</a> 下载最新款「小狼毫套件」。</p><h2 id="完美协作"><a href="#完美协作" class="headerlink" title="完美协作"></a>完美协作</h2><p>「中州韵98五笔助手」新增「主题设定」入口，可以调出「小狼毫助手」，并将所加载的「方案」传递给「小狼毫助手」。</p><ul><li><p><img src="/img/rimetools/weasel-tool/1.png" alt="新增入口"></p></li><li><p><img src="/img/rimetools/weasel-tool/2.png" alt="小狼毫助手界面"></p></li><li><p><img src="/img/rimetools/weasel-tool/3.png" alt="小狼毫助手界面"></p></li><li><p><img src="/img/rimetools/weasel-tool/4.png" alt="小狼毫助手界面"></p></li></ul><h2 id="特色功能"><a href="#特色功能" class="headerlink" title="特色功能"></a>特色功能</h2><ul><li>快捷路径</li></ul><p>「用户目录」、「程序目录」，「日志目录」，更方便折腾。</p><ul><li>数据备份</li></ul><p>「桌面」、「文档」一键达，并以时间戳为标志建立文件夹，也可自定义备份路径。</p><ul><li>进程守护</li></ul><p>可以时时护守「小狼毫算法服务」，防止各种意外。</p><ul><li>开机自启</li></ul><p>可以有效避免小狼毫算法服务开机启动慢的问题。</p><ul><li>数据协同</li></ul><p>「从存档加载」可以自动读取「中州韵助手」所监听的方案，并自动用小狼毫助手接管相应配置。</p><ul><li>更新算法服务</li></ul><p>内置最新 rime.dll ，一键发送到桌面，可以自助替换。</p><ul><li>示范配置</li></ul><p>「查看示范」按钮，可以生成一份示范配置到桌面，供其他方案人士比照使用。</p><ul><li>配置保存</li></ul><p>小狼毫助手可以存起自己的配置文件，方便开机自启时做相应动作。</p><ul><li>扩展词库</li></ul><p>小狼毫助手新增扩展词库管理器，可以通用于所有方案。</p><h2 id="适用于最新版本"><a href="#适用于最新版本" class="headerlink" title="适用于最新版本"></a>适用于最新版本</h2><p>「小狼毫-98五笔版-0621.exe」起，配置文件发生了变化，请配合最新版本小狼毫使用。</p><h2 id="特别说明"><a href="#特别说明" class="headerlink" title="特别说明"></a>特别说明</h2><p>librime 早期内置了一份「插件」：<code>librime-charcode</code>，由它实现 <code>charset_filter</code> 相关的过滤功能。但是这个插件很不好用，佛振三年前就已将之从鼠须管中剔除。</p><p>在小狼毫下，这个插件如果被编译进入 <code>rime.dll</code>，就会引起冗长的 <code>warning</code> 日志生成。</p><p>强烈建议，从资源库下载我们编译发布的 <code>rime.dll</code> ，避免这些问题。</p><h2 id="内外兼修"><a href="#内外兼修" class="headerlink" title="内外兼修"></a>内外兼修</h2><p>「中州韵98五笔助手」主要负责 <code>schema</code> 与 <code>table</code> ，而「小狼毫助手」专攻 <code>theme</code> ，作为「中州韵98五笔助手」的子程序，小狼毫助手亦可独立使用。</p><ul><li><p><img src="/img/rimetools/windows/weasel-rimetool-1.png" alt="支持所有 RIME 前端"></p></li><li><p><img src="/img/rimetools/windows/weasel-rimetool-2.png" alt="候选序号样式变更"></p></li><li><p><img src="/img/rimetools/windows/weasel-rimetool-3.png" alt="热键管理"></p></li><li><p><img src="/img/rimetools/windows/weasel-rimetool-4.png" alt="中英文状态管理"></p></li><li><p><img src="/img/rimetools/weasel-tool/0.png" alt="上屏行为控制"></p></li><li><p><img src="/img/rimetools/windows/weasel-rimetool-6.png" alt="纯词条加词示例"></p></li><li><p><img src="/img/rimetools/windows/weasel-rimetool-7.png" alt="词库支持增删改查"></p></li><li><p><img src="/img/rimetools/windows/weasel-rimetool-8.png" alt="词库管理界面"></p></li><li><p><img src="/img/rimetools/windows/weasel-rimetool-9.png" alt="单字拆分查询"></p></li><li><p><img src="/img/rimetools/windows/weasel-rimetool-10.png" alt="98五笔小组强力驱动"></p></li></ul><h3 id="视频教程"><a href="#视频教程" class="headerlink" title="视频教程"></a>视频教程</h3><ul><li><p><a href="https://www.bilibili.com/video/BV1yX4y187Ne/?spm_id_from=333.999.0.0">码表管理</a></p></li><li><p><a href="https://www.bilibili.com/video/BV14u4y1Z7sf/?spm_id_from=333.999.0.0&amp;vd_source=0d05a37563bb1109bc73f16a8004a282">可视化工具</a></p></li></ul><h3 id="WIKI页"><a href="#WIKI页" class="headerlink" title="WIKI页"></a>WIKI页</h3><ul><li><a href="https://gitee.com/wubi98/shell/wikis/RIME%20%E7%9B%AE%E5%BD%95%E7%9B%B4%E8%BE%BE">中州韵98五笔助手功能介绍</a></li></ul><h3 id="Linux版打包源码"><a href="#Linux版打包源码" class="headerlink" title="Linux版打包源码"></a>Linux版打包源码</h3><ul><li><a href="https://gitee.com/wubi98/rime98wb">https://gitee.com/wubi98/rime98wb</a></li><li><a href="https://github.com/yanhuacuo/rime98wb">https://github.com/yanhuacuo/rime98wb</a></li></ul><h3 id="联系"><a href="#联系" class="headerlink" title="联系"></a>联系</h3><ul><li><a href="https://wb98.gitee.io/">98五笔资源库</a></li><li><a href="https://wubi98.gitee.io/">五笔小筑</a></li><li><a href="https://github.com/yanhuacuo/98wubi-tables">GitHub</a></li></ul><h3 id="邮箱"><a href="#邮箱" class="headerlink" title="邮箱"></a>邮箱</h3><p><a href="mailto:wubixiaozhu@126.com">wubixiaozhu@126.com</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;正式发布&quot;&gt;&lt;a href=&quot;#正式发布&quot; class=&quot;headerlink&quot; title=&quot;正式发布&quot;&gt;&lt;/a&gt;正式发布&lt;/h2&gt;&lt;p&gt;历时 &lt;code&gt;5&lt;/code&gt; 天，&lt;code&gt;weasel-tool&lt;/code&gt; 正式发布。请到 &lt;a href=&quot;</summary>
-      
-    
-    
-    
-    <category term="rimetool" scheme="https://wubi98.github.io/categories/rimetool/"/>
-    
-    
-    <category term="rimetool" scheme="https://wubi98.github.io/tags/rimetool/"/>
     
   </entry>
   
