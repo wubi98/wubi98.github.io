@@ -44,6 +44,30 @@
   </entry>
   
   <entry>
+    <title>惜缘</title>
+    <link href="https://wubi98.github.io/2024/08/22/2025-08-22-001.community/"/>
+    <id>https://wubi98.github.io/2024/08/22/2025-08-22-001.community/</id>
+    <published>2024-08-21T16:00:00.000Z</published>
+    <updated>2025-08-21T16:00:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>最近，数学界知名的一个学习小组 <a href="https://www.maki-math.com/">Maki’s Club</a> 核心成员纠纷，创始人宣存解散。<br>我心戚戚焉，<code>98五笔小组</code> 自发维护九八五笔资源已经有十一年之久。这期间，大佬们无私奉献，将98五笔的易用性做到了极致。另有热心网友们的捐赠，维系着98五笔永硕网盘的支出。98五笔的维护状态一直是有序的、良性的。<br>然而，自从 <code>gitee</code> 挂掉后，国内连个免费网页替代品都没有了，我们更不可能长久地持有顶级域名，只好退到 <code>github</code> 的静态博客中。<br>这两年多以来，捐赠者逐渐稀少，小组内多位大佬也都投入了新的人生阶段，难有余暇参与管理。</p><p>但从另一方面看，98五笔资源库依然优良且有序。<code>rimetool</code> 抹平了最后一点98五笔在 <code>RIME</code> 上的上手成本。百度输入法、微信输入法等大厂也都内围置了98五笔方案。在很长的一个时期内，98五笔这个小社区依然会是中州韵平台下做得最好的。</p><p>当然，资源库的持续维护，离不开大家的支持。 如果98五笔小组的作品为您提供了便利，还请多多支持，<code>¥80</code> 捐赠即可为资源库网盘续费一年。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;最近，数学界知名的一个学习小组 &lt;a href=&quot;https://www.maki-math.com/&quot;&gt;Maki’s Club&lt;/a&gt; 核心成员纠纷，创始人宣存解散。&lt;br&gt;我心戚戚焉，&lt;code&gt;98五笔小组&lt;/code&gt; 自发维护九八五笔资源已经有十一年之久。这期间，</summary>
+      
+    
+    
+    
+    <category term="Community" scheme="https://wubi98.github.io/categories/Community/"/>
+    
+    
+    <category term="Community" scheme="https://wubi98.github.io/tags/Community/"/>
+    
+  </entry>
+  
+  <entry>
     <title>中州韵助手重构版</title>
     <link href="https://wubi98.github.io/2024/04/21/2024-04-21-001.rimetool/"/>
     <id>https://wubi98.github.io/2024/04/21/2024-04-21-001.rimetool/</id>
@@ -512,30 +536,6 @@
     
     
     <category term="char" scheme="https://wubi98.github.io/tags/char/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>小小输入法忆略</title>
-    <link href="https://wubi98.github.io/2023/07/06/2023-07-06-01.yong/"/>
-    <id>https://wubi98.github.io/2023/07/06/2023-07-06-01.yong/</id>
-    <published>2023-07-05T16:00:00.000Z</published>
-    <updated>2023-07-05T16:00:00.000Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="初用"><a href="#初用" class="headerlink" title="初用"></a>初用</h2><p>最早是在 <code>linux</code> 下接触了小小输入法，然后惊异地发现两个从没有交流过输入法软件的论坛好友夜烟客和殺殺也在用。后面，慢慢遇到各种问题，比如<code>Debian</code>上开始出现安装脚本报错，以及需要独立编译<code>qt</code>插件，折腾得人心力交瘁。</p><p>但是小小输入法带给我的惊喜还是远远多于这些问题带来的困扰，利用它我实现了中二少年的码表与主题自由。那时，搜狗还没有对素材主题加密，一口气移植了很多主题。可是小小的论坛服务器不稳，只在私下里与朋友们分享过一些。</p><p>小小相比 <code>ibus</code> 的残废、功能极为齐全，表头定义实现了五笔所有的诉求。相对于 <code>fcitx4</code>，更是颜值出众，且纯文本码表无需额外转化，方便了不少。</p><h2 id="安卓"><a href="#安卓" class="headerlink" title="安卓"></a>安卓</h2><p>后来，我想在安卓手机上实现打字，折腾了一圈后发现似乎只有【百度手机输入法】和【小小输入法安卓版】是可用的。当时，osfans 开发了一个利用  <code>sqlite</code> 数据库实现的码表输入法，起名作【吴语输入法】，改进了一段时间后，变身作【方言输入法】，这就是同文输入法的前身。</p><p>小小输入法相比这两款，最大的优点是键盘映射是齐全的，可以使用 <code>shift</code> 、<code>ctrl</code>、甚至一些常用的组合键，这是第一次实现完整的类 pc 输入体验。</p><p>但是，小小安卓版的主题太丑了…… 周大是怎么用得下去的。想动手改进，但是我当时还是小白，没有看懂周大的那个 <code>demo</code>.</p><h2 id="win"><a href="#win" class="headerlink" title="win"></a>win</h2><p><code>windows</code> 上的小小输入法，是最好用的完全体，至少不用去担心什么劳什子的动态链接库插件。不过 <code>linux</code> 下制作的主题全变了样，需要重新调校。在虫姐的指导下，我们打了小小输入法98五笔版这个包，而后一系列小功能点也都移植过来了。</p><p>小小输入法可以用配置文件自定义托盘菜单，可以挂多个分表，可以转义码表内容，实现拆分显示。甚至还能利用内置命令做出一些快捷路径的菜单，我们的包里还内置了一个文本编辑器，可以直接调用它打开码表。</p><p>这期间，因为 <code>GB18030</code> 编码的问题，很多被我们安利的朋友头大如斗。在 <code>windows</code> 上，当时行流度高的文本编辑器，对这个编码方式都非常不友好。那个中文编辑器，好像叫 <code>cnbook</code>，更有一个神一样的 <code>bug</code> ：编辑过一次后，再次打开全是乱码。</p><p><code>TSF</code> 注册项和主程序分离，也带来了一系列问题，这些完全出乎普通人的意料。几乎每个接触小小输入法的人，都在群里问一遍为什么语言栏里调了出来，但是还不能打字。</p><p>再后来，因为 <code>DPI</code> 缩放带来了一堆问题，虫姐剔掉了所有图片素材主题，我们发布的小小输入法98五笔版又变成了素面朝天的样子。</p><h2 id="告别"><a href="#告别" class="headerlink" title="告别"></a>告别</h2><p>现在的操作系统，朝着越来越精美的方向发展，小小输入法依然还是十年前的样子。作为普通用户，无法给它做出【圆角】或【透明度】，更不用说【阴影】与块级渲染。在视觉上，尖锐方正的候选框与 <code>windows11</code> 的画风差异太大了。在 <code>Gnome42</code> 或 <code>KDE</code> 上，<code>ibus</code> 与 <code>fcitx5</code> 都更美观。  </p><p>偶尔看看小小论坛，周大似乎已经无意添再加新特性。一些坛友依然在努力地复刻着十年前的 <code>RIME</code> 配色，很感动，也很感慨，因为如今的 <code>RIME</code> 早已破茧成蝶。</p><ul><li><p><img src="/img/0607/rime-1.png" alt="pic"></p></li><li><p><img src="/img/0607/rime-2.png" alt="pic"></p></li><li><p><img src="/img/0607/rime-3.png" alt="pic"></p></li><li><p><img src="/img/0607/rime-4.png" alt="pic"></p></li><li><p><img src="/img/0607/rime-5.png" alt="pic"></p></li><li><p><img src="/img/0607/rime-6.png" alt="pic"></p></li><li><p><img src="/img/0607/rime-7.png" alt="pic"></p></li><li><p><img src="/img/0607/rime-8.png" alt="pic"></p></li><li><p><img src="/img/0607/rime-9.png" alt="pic"></p></li><li><p><img src="/img/0607/rime-10.png" alt="pic"></p></li></ul>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;初用&quot;&gt;&lt;a href=&quot;#初用&quot; class=&quot;headerlink&quot; title=&quot;初用&quot;&gt;&lt;/a&gt;初用&lt;/h2&gt;&lt;p&gt;最早是在 &lt;code&gt;linux&lt;/code&gt; 下接触了小小输入法，然后惊异地发现两个从没有交流过输入法软件的论坛好友夜烟客和殺殺也在用。后</summary>
-      
-    
-    
-    
-    <category term="yong" scheme="https://wubi98.github.io/categories/yong/"/>
-    
-    
-    <category term="yong" scheme="https://wubi98.github.io/tags/yong/"/>
     
   </entry>
   

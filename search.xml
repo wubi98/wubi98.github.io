@@ -29,6 +29,31 @@
     
     
     <entry>
+      <title>惜缘</title>
+      <link href="/2024/08/22/2025-08-22-001.community/"/>
+      <url>/2024/08/22/2025-08-22-001.community/</url>
+      
+        <content type="html"><![CDATA[<p>最近，数学界知名的一个学习小组 <a href="https://www.maki-math.com/">Maki’s Club</a> 核心成员纠纷，创始人宣存解散。<br>我心戚戚焉，<code>98五笔小组</code> 自发维护九八五笔资源已经有十一年之久。这期间，大佬们无私奉献，将98五笔的易用性做到了极致。另有热心网友们的捐赠，维系着98五笔永硕网盘的支出。98五笔的维护状态一直是有序的、良性的。<br>然而，自从 <code>gitee</code> 挂掉后，国内连个免费网页替代品都没有了，我们更不可能长久地持有顶级域名，只好退到 <code>github</code> 的静态博客中。<br>这两年多以来，捐赠者逐渐稀少，小组内多位大佬也都投入了新的人生阶段，难有余暇参与管理。</p><p>但从另一方面看，98五笔资源库依然优良且有序。<code>rimetool</code> 抹平了最后一点98五笔在 <code>RIME</code> 上的上手成本。百度输入法、微信输入法等大厂也都内围置了98五笔方案。在很长的一个时期内，98五笔这个小社区依然会是中州韵平台下做得最好的。</p><p>当然，资源库的持续维护，离不开大家的支持。 如果98五笔小组的作品为您提供了便利，还请多多支持，<code>¥80</code> 捐赠即可为资源库网盘续费一年。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Community </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Community </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>中州韵助手重构版</title>
       <link href="/2024/04/21/2024-04-21-001.rimetool/"/>
       <url>/2024/04/21/2024-04-21-001.rimetool/</url>
