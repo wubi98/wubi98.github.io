@@ -1,3 +1,9 @@
+/* Here is your custom css styles. */
+@font-face {
+    font-family: zgFont;
+    src: url("/font/98WB-0.woff2") format("opentype");
+}
+
 .gitalk-card {
     margin: 1.25rem auto;
 }
@@ -165,6 +171,7 @@ table tr:nth-child(2n), thead {
 }
 
 .markdown-body p {
+    font-family: zgFont;
     font-size: 1rem;
     line-height: 1.5rem;
 }
